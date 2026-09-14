@@ -26,9 +26,9 @@ body {
   background-color: #fff;
   border-radius: 30px;
   padding: 30px;
-  display: flex;
   flex-direction: column;
   justify-content: space-between;
+  display: flex;
 }
 .card .top{
   display: flex;
@@ -38,10 +38,10 @@ body {
 }
 
 .top img{
-  height: 42px;
-  width: 42px;
+  height: 50px;
+  width: 50px;
   border-radius: 50%;
-  border: 1px solid #dadada;
+  border: 1px solid #413a3a;
   padding: 3px;
   object-fit: cover;
 }
@@ -55,10 +55,6 @@ body {
   gap: 3px;
   background-color: transparent;
   color: #8b8b8b;
-}
-
-
-.center{
 }
 
 .center h3{
