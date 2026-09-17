@@ -5,33 +5,33 @@ const App = () => {
 
   const users = [
     {
-      img: 'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?q=80&w=2576&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+      img: 'https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8d29ya2luZyUyMHByb2ZldGlvbmFsfGVufDB8fDB8fHww',
       intro: '',
-      color:'royalblue',
+      color:'blue',
       tag: 'Satisfied'
     },
     {
-      img: 'https://plus.unsplash.com/premium_photo-1661769159995-f3af0089875f?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-      color:'lightseagreen',
+      img: 'https://plus.unsplash.com/premium_photo-1661630621969-6d9faac03f9f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8d29ya2luZyUyMHByb2ZldGlvbmFsfGVufDB8MXwwfHx8MA%3D%3D',
+      color:'green',
       intro: '',
       tag: 'Underserved'
     },
     {
-      img: 'https://images.unsplash.com/photo-1498758536662-35b82cd15e29?q=80&w=2576&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-      color:'orange',
+      img: 'https://images.unsplash.com/photo-1517971129774-8a2b38fa128e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8d29ya2luZyUyMHByb2ZldGlvbmFsfGVufDB8MXwwfHx8MA%3D%3D',
+      color:'pink',
       intro: '',
       tag: 'Underbanked'
     },
     {
-      img: 'https://images.unsplash.com/photo-1600275669439-14e40452d20b?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-      color:'pink',
+      img: 'https://images.unsplash.com/photo-1649920679317-63b3ba99c9dd?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fHdvcmtpbmclMjBwcm9mZXRpb25hbHxlbnwwfDF8MHx8fDA%3D',
+      color:'purple',
       intro: '',
       tag: 'Underwear'
     },
     {
-      img:'https://images.unsplash.com/photo-1748785826435-83c5062a5737?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+      img:'https://images.unsplash.com/photo-1627826436180-178c3b10767c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHdvcmtpbmclMjBwcm9mZXRpb25hbHxlbnwwfDF8MHx8fDA%3D',
       intro:'',
-      color:'black',
+      color:'grey',
       tag:'Average'
     }
   ]
